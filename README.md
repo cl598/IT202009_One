@@ -5,3 +5,5 @@ Echoing just the array will only say "Array," which brings to a different method
 First loop outputs the exact order in the array including the duplicates, which means it does pinpoint to each value as it goes through the whole array.
 
 Second loop outputs only the even numbers in the array, and it has the same process with an if statement within itself to identify which is even/odd. To see if it even/odd, I used the remainder operator by 2; if it results to 0 then it is even-- if it results to 1 then it is odd. Combining the two will loop through each value and see if it fits the requirements to be part of the final output.
+
+![output](https://i.gyazo.com/df2d14c1d4ba6ab66b12de27d9ff3bc2.png)
